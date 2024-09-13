@@ -26,7 +26,7 @@ namespace Atividade_12._09
 
                 Console.Write("Escreva uma idade : ");
                 idades[i] = int.Parse(Console.ReadLine());
-
+                dsfnj
                 Thread.Sleep(1000);
                 Console.WriteLine("===============");
             }
